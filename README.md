@@ -1,0 +1,1 @@
+I learned that images aren't responsive by themselves and there is no way to that with strictly using html and a single source
