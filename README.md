@@ -1,1 +1,1 @@
-I learned that images aren't responsive by themselves and there is no way to that with strictly using html and a single source
+This project is part of [*TOP]{https://www.theodinproject.com/}, possibly the greatest web development tutorial in the history of the Universe, You should totally [check it out]{https://www.theodinproject.com/}.
