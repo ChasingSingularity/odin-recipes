@@ -1,1 +1,1 @@
-This project is part of [TOP][https://www.theodinproject.com/], possibly the greatest web development tutorial in the history of the Universe, You should totally [check it out][https://www.theodinproject.com/].
+This project is part of [TOP](https://www.theodinproject.com/), possibly the greatest web development tutorial in the history of the Universe, You should totally [check it out](https://www.theodinproject.com/).
